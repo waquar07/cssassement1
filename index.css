@@ -1,0 +1,47 @@
+.heading{
+    color: red;
+}
+.para1{
+    color:orangered;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+.list{
+    color: brown;
+    /* font-weight:700; */
+}
+.li{
+    font-style: italic;
+    text-decoration: underline;
+}
+.para2{
+    color:orangered;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+}
+.b{
+    text-decoration:line-through;
+}
+.bg{
+    background-color: yellow;
+}
+ul{
+    letter-spacing: 5px;
+}
+.para3{
+    font-style: italic;
+    background-color: yellow;
+    color: brown;
+    /* text-decoration: none; */
+}
+.para4{
+    color:chocolate;
+    /* line-height: 20px; */
+    font-weight:600;
+}
+.one{
+    text-decoration: none;
+}
+
